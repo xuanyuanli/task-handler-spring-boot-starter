@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Java Version](https://img.shields.io/badge/Java-21+-green.svg)](https://www.oracle.com/java/)
 
-> 基于 Spring 的轻量任务路由器：使用 `@TaskMapping` 为方法绑定任务名，通过 `TaskMappingContext.run(...)` 在运行时按“任务名 + 参数”分发执行。
+> 基于 Spring 的轻量任务路由器：使用 `@TaskMapping` 为方法绑定任务名，通过 `TaskMappingContext.run(...)` 在运行时按“任务名 + 参数”分发执行。  
 自动装配，无需手动注入或额外配置，适合快速在项目内实现简单的“任务调度/指令执行”。
 
 ### 特性
