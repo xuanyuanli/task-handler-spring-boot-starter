@@ -1,7 +1,10 @@
 ## Task Handler Spring Boot Starter
 
-基于 Spring 的轻量任务路由器：使用 `@TaskMapping` 为方法绑定任务名，通过 `TaskMappingContext.run(...)` 在运行时按“任务名 + 参数”分发执行。
+[![Maven Central](https://img.shields.io/maven-central/v/cn.xuanyuanli/jujube-parent.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:cn.xuanyuanli.boot%20AND%20a:task-handler-spring-boot-starter)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Java Version](https://img.shields.io/badge/Java-21+-green.svg)](https://www.oracle.com/java/)
 
+> 基于 Spring 的轻量任务路由器：使用 `@TaskMapping` 为方法绑定任务名，通过 `TaskMappingContext.run(...)` 在运行时按“任务名 + 参数”分发执行。
 自动装配，无需手动注入或额外配置，适合快速在项目内实现简单的“任务调度/指令执行”。
 
 ### 特性
@@ -18,7 +21,7 @@
 <dependency>
   <groupId>cn.xuanyuanli.boot</groupId>
   <artifactId>task-handler-spring-boot-starter</artifactId>
-  <version>1.0.0</version>
+  <version>LATEST</version>
 </dependency>
 ```
 

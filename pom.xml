@@ -13,6 +13,26 @@
     <artifactId>task-handler-spring-boot-starter</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
+    <name>Task Handler Spring Boot Starter</name>
+    <description>基于 Spring 的轻量任务路由器</description>
+    <url>https://github.com/xuanyuanli/task-handler-spring-boot-starter/</url>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>xuanyuanli</name>
+            <email>xuanyuanli999@gmail.com</email>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git:git@github.com:xuanyuanli/task-handler-spring-boot-starter.git</connection>
+        <developerConnection>scm:git:git@github.com:xuanyuanli/task-handler-spring-boot-starter.git</developerConnection>
+        <url>git@github.com:xuanyuanli/task-handler-spring-boot-starter.git</url>
+    </scm>
 
     <dependencies>
         <dependency>
