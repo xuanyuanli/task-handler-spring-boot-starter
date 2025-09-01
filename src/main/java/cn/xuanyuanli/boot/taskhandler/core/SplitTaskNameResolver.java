@@ -4,7 +4,7 @@ package cn.xuanyuanli.boot.taskhandler.core;
 import cn.xuanyuanli.core.util.Texts;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 public class SplitTaskNameResolver extends TaskNameResolver {
 

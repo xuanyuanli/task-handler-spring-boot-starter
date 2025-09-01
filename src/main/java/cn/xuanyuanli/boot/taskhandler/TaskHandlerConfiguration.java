@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 @AutoConfiguration
 @EnableConfigurationProperties(TaskHandlerProperties.class)

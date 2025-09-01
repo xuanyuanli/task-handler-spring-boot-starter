@@ -3,7 +3,7 @@ package cn.xuanyuanli.boot.taskhandler.core;
 import java.lang.annotation.*;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 @Target({ ElementType.METHOD })
 @Retention(RetentionPolicy.RUNTIME)

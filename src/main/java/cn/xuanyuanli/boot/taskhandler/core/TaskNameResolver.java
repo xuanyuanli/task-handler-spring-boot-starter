@@ -1,7 +1,7 @@
 package cn.xuanyuanli.boot.taskhandler.core;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 public abstract class TaskNameResolver {
     protected String body;

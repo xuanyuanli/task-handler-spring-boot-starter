@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import lombok.Data;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 @ConfigurationProperties(prefix = "taskhandler")
 @Data

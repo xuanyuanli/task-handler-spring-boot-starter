@@ -8,7 +8,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
 import java.util.Arrays;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 @Slf4j
 public class TaskMappingPostProcessor implements BeanPostProcessor {

@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author John Li
+ * @author xuanyuanli
  */
 @Slf4j
 public class TaskMappingContext {
